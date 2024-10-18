@@ -1,0 +1,12 @@
+.management-employees-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .management-employees-title {
+    font-size: 2.5rem; /* Tamaño de letra grande para el título */
+    margin-bottom: 3.5rem; /* Espacio entre el título y los botones */
+  }
+  

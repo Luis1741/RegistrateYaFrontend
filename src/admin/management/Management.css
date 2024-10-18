@@ -1,0 +1,17 @@
+.management-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Altura de la ventana gráfica */
+}
+
+.management-title {
+  font-size: 2.5rem; /* Tamaño de letra grande para el título */
+  margin-bottom: 2rem; /* Espacio entre el título y los botones */
+}
+
+.management-buttons .btn {
+  font-size: 1.5rem; /* Tamaño de letra más grande para los botones */
+  margin: 0.5rem 0; /* Espacio entre los botones */
+}
