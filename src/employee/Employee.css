@@ -1,0 +1,23 @@
+.employee-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura de la ventana gráfica */
+  }
+
+  .employee-title {
+    font-size: 3rem; /* Tamaño de letra grande para el título */
+    margin-bottom: 2rem; /* Espacio entre el título y el párrafo */
+  }
+  
+  .employee-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .employee-buttons .btn {
+    font-size: 1.5rem; /* Tamaño de letra más grande para los botones */
+    margin: 0.5rem 0; /* Espacio entre los botones */
+  }
